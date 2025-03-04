@@ -1,4 +1,4 @@
-package com.onlineshop.project1;
+package com.onlineshop.JavaFX;
 
 
 import javafx.application.Application;

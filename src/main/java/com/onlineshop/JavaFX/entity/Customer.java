@@ -1,4 +1,4 @@
-package com.onlineshop.project1.entity;
+package com.onlineshop.JavaFX.entity;
 
 public class Customer {
     private int customerId;

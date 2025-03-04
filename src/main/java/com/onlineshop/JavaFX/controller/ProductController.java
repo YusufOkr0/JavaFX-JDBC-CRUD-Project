@@ -1,12 +1,10 @@
-package com.onlineshop.project1.controller;
+package com.onlineshop.JavaFX.controller;
 
 
-import com.onlineshop.project1.HelloApplication;
-import com.onlineshop.project1.entity.Customer;
-import com.onlineshop.project1.entity.Product;
-import com.onlineshop.project1.repository.ProductRepository;
-import com.onlineshop.project1.util.ExceptionHandler;
-import javafx.application.Platform;
+import com.onlineshop.JavaFX.HelloApplication;
+import com.onlineshop.JavaFX.entity.Product;
+import com.onlineshop.JavaFX.repository.ProductRepository;
+import com.onlineshop.JavaFX.util.ExceptionHandler;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -18,7 +16,6 @@ import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.stage.Stage;
 
-import javax.management.InstanceAlreadyExistsException;
 import java.math.BigDecimal;
 import java.net.ConnectException;
 import java.sql.SQLException;

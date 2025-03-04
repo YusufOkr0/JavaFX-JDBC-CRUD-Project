@@ -1,9 +1,9 @@
-package com.onlineshop.project1.controller;
+package com.onlineshop.JavaFX.controller;
 
-import com.onlineshop.project1.HelloApplication;
-import com.onlineshop.project1.entity.Customer;
-import com.onlineshop.project1.repository.CustomerRepository;
-import com.onlineshop.project1.util.ExceptionHandler;
+import com.onlineshop.JavaFX.HelloApplication;
+import com.onlineshop.JavaFX.entity.Customer;
+import com.onlineshop.JavaFX.repository.CustomerRepository;
+import com.onlineshop.JavaFX.util.ExceptionHandler;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;

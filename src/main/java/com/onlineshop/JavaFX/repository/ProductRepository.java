@@ -1,11 +1,10 @@
-package com.onlineshop.project1.repository;
+package com.onlineshop.JavaFX.repository;
 
-import com.onlineshop.project1.entity.Product;
-import com.onlineshop.project1.util.DatabaseConnection;
-import com.onlineshop.project1.util.ExceptionHandler;
+import com.onlineshop.JavaFX.entity.Product;
+import com.onlineshop.JavaFX.util.DatabaseConnection;
+import com.onlineshop.JavaFX.util.ExceptionHandler;
 
 
-import javax.management.InstanceAlreadyExistsException;
 import java.math.BigDecimal;
 import java.net.ConnectException;
 import java.sql.Connection;

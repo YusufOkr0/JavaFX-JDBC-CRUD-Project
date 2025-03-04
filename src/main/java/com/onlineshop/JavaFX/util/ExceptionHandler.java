@@ -1,4 +1,4 @@
-package com.onlineshop.project1.util;
+package com.onlineshop.JavaFX.util;
 
 import javafx.scene.control.Alert;
 
