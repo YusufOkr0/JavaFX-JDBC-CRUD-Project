@@ -29,7 +29,7 @@ public class DatabaseConnection {
     }
 
 
-    // simdilik gerek yok ama kalsin.
+   
     public static void closeConnection() {
         try {
             if (connection != null && !connection.isClosed()) {
